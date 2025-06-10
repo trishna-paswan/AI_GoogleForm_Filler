@@ -1,0 +1,15 @@
+spacy
+pymupdf
+selenium
+tk
+pytesseract
+pdf2image
+pillow
+
+'''
+Activate your virtual environment (if not already active), then run:
+
+python -m spacy download en_core_web_sm
+
+
+'''
