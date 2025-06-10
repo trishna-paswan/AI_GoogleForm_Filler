@@ -27,6 +27,7 @@ This project uses **Python**, **spaCy**, **Tkinter**, and **Selenium** to automa
 ## 📁 Project Structure
 
 AI-GoogleFormFiller/
+
 ├── main.py                # GUI + Controller
 
 ├── form_filler.py         # Selenium-based form filler
