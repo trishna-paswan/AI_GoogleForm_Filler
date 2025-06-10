@@ -46,3 +46,11 @@ url_entry.pack()
 tk.Button(root, text="Submit Form", command=submit_form).pack(pady=20)
 
 root.mainloop()
+
+'''
+🚀 How to Run
+
+pip install -r requirements.txt
+python main.py
+
+'''
