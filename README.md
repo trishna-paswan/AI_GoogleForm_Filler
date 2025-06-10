@@ -24,3 +24,24 @@ This project uses **Python**, **spaCy**, **Tkinter**, and **Selenium** to automa
 - Selenium (Browser automation)
 - Chrome WebDriver
 
+## 📁 Project Structure
+
+AI-GoogleFormFiller/
+├── main.py                # GUI + Controller
+├── form_filler.py         # Selenium-based form filler
+├── extract_data.py        # Resume parser using spaCy + PyMuPDF
+├── requirements.txt       # All required libraries
+├── README.md              # This file
+
+💻 Create Virtual Environment (Recommended)
+
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+📥 Install Dependencies
+
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+
+## 🙋‍♀️ Author
+Trishna Kumari Paswan
