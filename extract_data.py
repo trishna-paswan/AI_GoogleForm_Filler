@@ -1,4 +1,4 @@
-# extract_data.py
+# extract_data.py 
 
 import fitz  # PyMuPDF
 import spacy
