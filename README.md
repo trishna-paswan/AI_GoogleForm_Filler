@@ -1,5 +1,3 @@
-
-
 # 🤖 AI-Powered Google Form Auto-Filler
 
 This project uses **Python**, **spaCy**, **Tkinter**, and **Selenium** to automatically extract personal details from a user (via GUI or PDF Resume) and auto-fill them into a **Google Form** using a given link.
