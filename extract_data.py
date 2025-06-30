@@ -1,5 +1,5 @@
 # extract_data.py 
-
+ 
 import fitz  # PyMuPDF
 import spacy
 import re
